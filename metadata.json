@@ -1,0 +1,5 @@
+{
+  "name": "Lagrange Points Explorer",
+  "description": "A 3D interactive visualization of Lagrange points in the Sun-Earth system.",
+  "requestFramePermissions": []
+}
